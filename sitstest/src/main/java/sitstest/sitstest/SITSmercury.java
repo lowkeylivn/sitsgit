@@ -9,7 +9,7 @@ public class SITSmercury {
 		// TODO Auto-generated method stubri
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://newtours.demoaut.com/");
-		System.out.println("Mercury Page is open");
+		System.out.println("Mercury Page is opened");
 	}
 
 }
